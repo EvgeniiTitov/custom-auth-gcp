@@ -1,0 +1,2 @@
+class FailedToReadServiceAccountError(Exception):
+    pass
